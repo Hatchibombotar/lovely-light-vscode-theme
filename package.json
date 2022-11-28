@@ -2,6 +2,7 @@
   "name": "lovely-light",
   "displayName": "Lovely Light",
   "description": "An actually nice light theme for VSCode",
+  "icon": "./images/icon.png",
   "version": "0.0.1",
   "publisher": "Hatchibombotar",
   "repository": {
