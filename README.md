@@ -2,7 +2,7 @@
 
 A VSCode theme that aims to bring a nice, functional look to your light mode text editor.
 
-![An example of the code theme.](./images/jsx-syntax-preview.png)
+![An example of the code theme.](./images/preview.png)
 
 - File icon theme: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - Product icon theme: [Feather Product Icons](https://marketplace.visualstudio.com/items?itemName=melishev.feather-vscode)

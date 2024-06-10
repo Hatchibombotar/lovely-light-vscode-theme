@@ -3,7 +3,7 @@
   "displayName": "Lovely Light",
   "description": "An actually nice light theme for VSCode",
   "icon": "images/icon.png",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "publisher": "Hatchibombotar",
   "repository": {
     "type": "git",
@@ -11,11 +11,13 @@
   },
   "keywords": [
     "theme",
+    "light",
     "light theme",
     "nice light theme",
-    "hatchi",
     "clean light theme",
-    "atom light theme"
+    "atom light theme",
+    "atom",
+    "replit"
   ],
   "engines": {
     "vscode": "^1.73.0"

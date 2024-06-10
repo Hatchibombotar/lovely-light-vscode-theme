@@ -8,4 +8,12 @@ All notable changes to the "lovely-light" extension will be documented in this f
 
 ## 0.0.2
 
-- Added Extention Icon
+- Added Extension Icon
+
+## 0.2.0
+
+- Changed variable colour to black
+- Added top borders to tabs
+- Added red border to top of selected tabs
+- Made background of sidebar etc. lighter
+- Removed background of section headers
